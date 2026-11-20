@@ -1,0 +1,5 @@
+pillow>=10.0.0
+img2pdf>=0.5.0
+pikepdf>=8.0.0
+tqdm>=4.65.0
+wasmtime>=20.0.0
